@@ -75,16 +75,7 @@
       "code": "https://github.com/immanishtiwarii/Dashboard-graph"
     }
   },
-  {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
-    }
-  },
+  
   {
     "name": "Crypto Tracker",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
